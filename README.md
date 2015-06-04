@@ -1,3 +1,4 @@
+
 DBMS-Online-Messenger
 ====================
 
@@ -29,3 +30,9 @@ This software was written and tested on Linux and OS X. Written using Java jdk-7
 To build and run the program, go to the java/src. type "make run"
 
 by John Castillo and Daniel Pasillas
+=======
+DMS-Online-Messenger
+====================
+
+Instant Messenger in Java
+
